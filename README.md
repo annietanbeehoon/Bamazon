@@ -20,8 +20,9 @@ This application implements command line based storefront using the npm inquirer
 - View Low Inventory
 - Add to Inventory
 - Add New Product
-
+##### Screenshots attached below per the actions Bamazon Manager could take as mentioned above.
 ![image](https://user-images.githubusercontent.com/34113550/38945203-e7787a90-4303-11e8-90fa-f36194d0c7d1.png)
+![image](https://user-images.githubusercontent.com/34113550/38945436-7e790220-4304-11e8-944f-a33168eb0907.png)
 
 ## Technologies Used
 
