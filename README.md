@@ -12,6 +12,8 @@ This application implements command line based storefront using the npm inquirer
 - computes the cost
 - depletes the stock from the store's inventory
 
+![image](https://user-images.githubusercontent.com/34113550/38945142-b106dd1c-4303-11e8-9608-fec2b089d6e9.png)
+
 #### The Bamazon Manager allows the store manager to do the following:
 
 - View Products for Sale
