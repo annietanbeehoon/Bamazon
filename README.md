@@ -21,7 +21,7 @@ This application implements command line based storefront using the npm inquirer
 - Add to Inventory
 - Add New Product
 
-
+![image](https://user-images.githubusercontent.com/34113550/38945203-e7787a90-4303-11e8-90fa-f36194d0c7d1.png)
 
 ## Technologies Used
 
